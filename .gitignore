@@ -1,0 +1,15 @@
+# Compiled source #
+###################
+*.dll
+*.pdb
+*.cache
+*.txt
+
+# Test files #
+##############
+*.trx
+*.dat
+
+# Solution Files #
+##################
+*.suo

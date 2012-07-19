@@ -13,3 +13,8 @@
 # Solution Files #
 ##################
 *.suo
+*.user
+*.vsmdi
+bin
+obj
+Debug
